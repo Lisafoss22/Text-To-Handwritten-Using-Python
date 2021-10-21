@@ -1,0 +1,2 @@
+import pywhatkit
+pywhatkit.text_to_handwriting("Finally, designing the last sentence in this way has the added benefit of seamlessly moving the reader to the first paragraph of the body of the paper. In this way we can see that the basic introduction does not need to be much more than three or four sentences in length. If yours is much longer you might want to consider editing it down a bit!", save_to="myproject1", rgb=(0,0,255))
